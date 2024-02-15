@@ -1,7 +1,7 @@
 # Local .terraform directories
 **/.terraform/*
 #ssh
-.ssh/
+#.ssh/
 
 # .tfstate files
 *.tfstate
